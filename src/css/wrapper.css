@@ -1,0 +1,7 @@
+.wrapper {
+    width: 400px;
+    height: 600px;
+    border-radius: 20px;
+    background: #b6b6b6;
+    padding: 0 .2rem;
+}
